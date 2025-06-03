@@ -1,0 +1,33 @@
+BasicInfo:
+Title : "Mine Sweeper"
+CompanyCode : "00"
+ProductCode : "CTR-P-BZLE"
+ContentType : Application
+Logo : Nintendo
+
+TitleInfo:
+UniqueId : 0x0EC3
+Category : Application
+
+Option:
+UseOnSD : true
+EnableCompress : true
+FreeProductCode : true
+EnableCrypt : true
+MediaFootPadding : true
+
+AccessControlInfo:
+UseExtSaveData : true
+ExtSaveDataId: 0x0EC3
+SystemSaveDataId1: 0x00000000
+SystemSaveDataId2: 0x00000000
+OtherUserSaveDataId1: 0x00000
+OtherUserSaveDataId2: 0x00000
+OtherUserSaveDataId3: 0x00000
+UseOtherVariationSaveData : false
+
+SystemControlInfo:
+SaveDataSize: 512KB # Change this
+RemasterVersion: 0
+StackSize: 0x00040000
+JumpId: 0x00040000000EC300L # plaintext exheader (<full UniqueID>L)
