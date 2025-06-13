@@ -17,8 +17,8 @@ The game's graphical assets are located in the romfs/gfx/ directory. These inclu
 TODO!
 ## Screenshots
 
-![Screenshot](pictures\Captura de pantalla 2025-06-13 172043.png)
-![Screenshot](pictures\Captura de pantalla 2025-06-13 172059.png)
+![Screenshot](pictures\screenshot1.png)
+![Screenshot](pictures\screenshot2.png)
 
 
 ## Installation
